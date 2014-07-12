@@ -6,7 +6,6 @@ parks and you need to write code to help organize the data.
 Your mission, should you choose to accept it, is to group amusement parks by
 * ID
 * Country
-* Country / State
 
 ## Challenge 1 - Indexing by ID
 
