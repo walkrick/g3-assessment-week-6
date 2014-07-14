@@ -1,11 +1,13 @@
 # Grouping Arrays of Hashes
 
-You work for a tourism agency, and your job is to promote amusement parks.  You have been given a list of amusement
+You work for a tourism agency, and your job is to promote amusement parks.  When you're given a list of amusement
 parks and you need to write code to help organize the data.
 
 Your mission, should you choose to accept it, is to group amusement parks by
 * ID
 * Country
+
+Please define a test and a class to solve this problem.
 
 ## Challenge 1 - Indexing by ID
 
